@@ -1,4 +1,5 @@
-# -Tableau-WorldHappinessReport Data Analysis and Visualization completed as a part of Internal Assessment under the course Data Visualization by Esha Shelar and Arva Kachwala.
+# -Tableau-WorldHappinessReport Data Analysis and Visualization 
+completed as a part of Internal Assessment under the course Data Visualization by Esha Shelar and Arva Kachwala.
 Analyzed economic, social scenarios of various nations across the globe to find a relationship with the happiness index.
 
 World Happiness Report uses global survey data to report how people evaluate their own lives in more than 150 countries worldwide. 
